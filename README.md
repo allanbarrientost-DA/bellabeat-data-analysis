@@ -102,3 +102,17 @@ This case study illustrates how exploratory data analysis can turn activity reco
 ---
 
 *Portfolio project created for data analytics learning and practice.*
+
+## 📊 Visualizaciones principales
+
+### 1. Distribución de la actividad física
+![Tipos de actividad](results/Graficas_Finales/Grafica_1.png)
+
+### 2. Comparación de pasos por día de la semana
+![Pasos por día de la semana](results/Graficas_Finales/Figure_3.png)
+
+### 3. Relación entre pasos y calorías
+![Relación entre pasos y calorías](results/Graficas_Finales/Figure_4.png)
+
+### 4. Relación entre pasos y tiempo sedentario
+![Pasos y tiempo sedentario](results/Graficas_Finales/Figure_10.png)
