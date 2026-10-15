@@ -1,0 +1,20 @@
+
+# Local datasets
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+
+# Generated analysis outputs
+results/tables/
+results/generated_charts/
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
